@@ -28,7 +28,7 @@ BUTTONS = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                "๏ 𝙷𝙴𝙴𝚁 ๏",
+                "๏ ᴊᴏɪɴ ๏",
                 url=f"https://t.me/OWNER_DHPR",
             )
         ]
@@ -49,8 +49,8 @@ BUTTON = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                "๏ ᴋɪᴅɴᴀᴘ ᴍᴇ ๏",
-                url=f"https://t.me/Heeer_music_bot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
+                "๏ ᴊᴏɪɴ ๏",
+                url=f"https://t.me/FONT_CHANNEL_01",
             )
         ]
     ]
