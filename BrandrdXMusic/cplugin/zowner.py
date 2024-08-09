@@ -41,7 +41,7 @@ async def repo(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱 𝐒𝐎𝐔𝐑𝐂𝐄 🌱", url=f"https://github.com/WCGKING/BrandrdXMusic"
+                        "🌱 𝐒𝐎𝐔𝐑𝐂𝐄 🌱", url=f"nhi h"
                     )
                 ]
             ]
@@ -59,7 +59,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱 𝐒𝐎𝐔𝐑𝐂𝐄 🌱", url=f"https://github.com/WCGKING/BrandrdXMusic"
+                        "🌱 𝐒𝐎𝐔𝐑𝐂𝐄 🌱", url=f"nhi h"
                     )
                 ]
             ]
@@ -76,7 +76,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱 𝐒𝐎𝐔𝐑𝐂𝐄 🌱", url=f"https://github.com/WCGKING/BrandrdXMusic"
+                        "🌱 𝐒𝐎𝐔𝐑𝐂𝐄 🌱", url=f"nhi h"
                     )
                 ]
             ]
