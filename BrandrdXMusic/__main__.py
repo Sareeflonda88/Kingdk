@@ -39,7 +39,7 @@ async def init():
         pass
     await app.start()
     for all_module in ALL_MODULES:
-        importlib.import_module("BrandrdXMusic.plugins" + all_module)
+        importlib.import_module("HeerMusic.plugins" + all_module)
     LOGGER("BrandrdXMusic.plugins").info("Successfully Imported Modules...")
     await userbot.start()
     await Hotty.start()
@@ -54,12 +54,12 @@ async def init():
         pass
     await Hotty.decorators()
     LOGGER("BrandrdXMusic").info(
-        "ᴅʀᴏᴘ ʏᴏᴜʀ ɢɪʀʟꜰʀɪᴇɴᴅ'ꜱ ɴᴜᴍʙᴇʀ ᴀᴛ @ʙʀᴀɴᴅᴇᴅᴋɪɴɢ82 ᴊᴏɪɴ @ʙʀᴀɴᴅʀᴅ_ʙᴏᴛ , @ʙʀᴀɴᴅᴇᴅ_ᴡᴏʀʟᴅ ꜰᴏʀ ᴀɴʏ ɪꜱꜱᴜᴇꜱ"
+        "ᴅʀᴏᴘ ʏᴏᴜʀ ᴘʀᴏʙʟᴇᴍ ᴀᴛ @OWNER_DHPR ᴊᴏɪɴ @DHPR_SUPPORT , @FONT_CHANNEL_01 ꜰᴏʀ ᴀɴʏ ɪꜱꜱᴜᴇꜱ"
     )
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("BrandrdXMusic").info("Stopping Brandrd Music Bot...")
+    LOGGER("BrandrdXMusic").info("Stopping Heer Music Bot...")
 
 
 if __name__ == "__main__":
