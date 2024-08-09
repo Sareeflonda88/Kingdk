@@ -78,7 +78,7 @@ async def download_shorts(client: Client, message: Message):
 
     file_stark = f"{ytdl_data['id']}.mp4"
     capy = (
-        f"**Title:** {ytdl_data['title']}\n**URL:** {url}\n**Requested by:** {chutiya}"
+        f"**Title:** {ytdl_data['title']}\n**URL:** {url}\n**Requested by:** {DHPR}"
     )
     await client.send_video(
         message.chat.id,
