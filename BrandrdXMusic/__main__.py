@@ -39,7 +39,7 @@ async def init():
         pass
     await app.start()
     for all_module in ALL_MODULES:
-        importlib.import_module("HeerMusic.plugins" + all_module)
+        importlib.import_module("BrandrdXMusic.plugins" + all_module)
     LOGGER("BrandrdXMusic.plugins").info("Successfully Imported Modules...")
     await userbot.start()
     await Hotty.start()
